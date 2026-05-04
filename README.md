@@ -12,8 +12,7 @@ Given features like the number of bedrooms, bathrooms, living area size, locatio
 
 ## The dataset
 
-InnerCity housing dataset (`innercity.xlsx`) — property-level data with features covering size, location, age, and condition of residential units.
-
+- <a href="https://github.com/GeethatheAnalyst/House-rent-prediction---Linear-regression/blob/main/innercity.xlsx">InnerCity housing dataset</a> — property-level data with features covering size, location, age, and condition of residential units.
 ---
 
 ## What I did
@@ -61,15 +60,9 @@ Evaluated the cleaned model using R-squared and adjusted R-squared scores. Also 
 
 ## Files in this repo
 
-| File | What it is |
-|------|------------|
-| `Assignment-4_linear_Regression.ipynb` | Full analysis notebook with code, outputs, and comments |
-| `Linear_Reg_Assignment_Summary_BY_GEETHA_R.docx` | Written summary of findings and methodology |
-| `innercity.xlsx` | Dataset used in this project |
+- <a href="https://github.com/GeethatheAnalyst/House-rent-prediction---Linear-regression/blob/main/Linear%20Regression%20Project.ipynb">Full analysis notebook</a> with code, outputs, and comments |
 
 ---
 
-## Dataset
 
-InnerCity housing dataset provided as part of ML coursework at RRC Technologies, Thanjavur.
 
